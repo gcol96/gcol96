@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gcol96
+- 👀 I’m interested in It, football, music and of course coding!
+- 🌱 I’m currently learning C# and ASP.NET
+- 📫 How to reach me : giuseppe.colao@manterosistemi.it
